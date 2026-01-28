@@ -54,7 +54,7 @@ Evaluated on **6,000+ patient records** (Kaggle Healthcare Datasets):
     ```
 
 ## 📸 Screenshots
-**(Add your screenshots here! See instructions below)**
+These are screenshots of the working dashboard.
 ![Dashboard](screenshots/dashboard.png)
 ![Dashboard](screenshots/vital.png)
 ## 🧠 "Smart Brain" Logic
