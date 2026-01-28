@@ -1,0 +1,14 @@
+# Ignore Data (Too large for GitHub)
+data/
+*.csv
+
+# Ignore Models (Optional: keep if <100MB, otherwise ignore)
+*.pth
+*.joblib
+
+# Ignore Python Cache & Envs
+__pycache__/
+*.pyc
+.env
+venv/
+.DS_Store
