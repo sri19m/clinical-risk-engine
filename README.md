@@ -67,7 +67,6 @@ These are screenshots of the working dashboard.
 ## 🧠 "Smart Brain" Logic
 The system uses a fallback-enabled NLP engine:
 * **Primary:** Deterministic Regex Patterns (Extracts `age`, `glucose`, `symptoms` with <10ms latency).
-* **Secondary (Optional):** OpenAI GPT-4 Integration for complex medical ambiguity resolution (Code included in `app.py`).
-
+* 
 ---
 *Disclaimer: This project is for educational purposes and is not a certified medical device.*
